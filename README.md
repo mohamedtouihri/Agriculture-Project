@@ -31,5 +31,23 @@
 - For further assistance, you can contact the project maintainer at [twihrimelek9@gmail.com].
 
 ## Project Description
-
 This project is an agricultural management web application implemented using HTML, CSS, JavaScript and ReactJS. It offers features to sell and buy crops of peasant products.
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html15/html15-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css/css-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactjs/reactjs-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+</div>
+
+###
