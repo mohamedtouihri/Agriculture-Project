@@ -1,70 +1,35 @@
-# Getting Started with Create React App
+# Agriculture Project
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Setup Instructions
 
-## Available Scripts
+### Prerequisites
+- Download Visual Studio Code : [https://code.visualstudio.com/Download] 
+- Download Node.js : [https://nodejs.org/en/download/prebuilt-installer]
+- Download npm : write the command line in the terminal [npm install -g npm] 
+### Step-by-Step Setup
 
-In the project directory, you can run:
+1. **Download or Clone the Repository:**
+   - Download the repository as a ZIP file and extract it, or clone it using Git:
+     ```sh
+     git clone <repository-url>
+     ```
 
-### `npm start`
+2. **Open the Project in Visual Studio Code:**
+   - The setup script will automatically open the project in Visual Studio Code.
+   - If the script doesn't work, you can manually open Visual Studio Code and go to `File > Open Folder...` to select the project directory.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+3. **Start the Development Server:**
+   - In Visual Studio Code, open a new terminal (``Ctrl+` ``).
+   - Run the following command to start the development server:
+     ```sh
+     npm start
+     ```
+   - This will start the project on `http://localhost:3000` and open it in your default web browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### Troubleshooting
+- If you encounter any issues during the setup, please check the error messages and ensure you have Node.js and npm installed.
+- For further assistance, you can contact the project maintainer at [twihrimelek9@gmail.com].
 
-### `npm test`
+## Project Description
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This project is an agricultural management web application implemented using HTML, CSS, JavaScript and ReactJS. It offers features to sell and buy crops of peasant products.
